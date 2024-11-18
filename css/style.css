@@ -1,0 +1,28 @@
+/* Asterisk wildcard selector to override default style added by browserv */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+
+
+/* header*/
+
+header {
+    background-color:green;
+}
+
+
+main {
+    background-color: lightblue;
+}
+
+/*  the footer is given a backgroundv of orange */
+footer {
+    background-color: orange;
+}
+ 
