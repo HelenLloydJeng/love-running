@@ -149,6 +149,7 @@ main {
   background-color: lightblue;
   /* makes main element take up any surplus space */
   flex: 1 0 auto;
+  margin-top: 30px;
 }
 
 
