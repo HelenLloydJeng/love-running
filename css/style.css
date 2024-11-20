@@ -149,7 +149,7 @@ main {
   background-color: lightblue;
   /* makes main element take up any surplus space */
   flex: 1 0 auto;
-  margin-top: 30px;
+  margin-top: 47px;
 }
 
 
@@ -183,4 +183,13 @@ nav {
   display: none;
 
 }
- 
+#logo {
+  font-size: 280%;
+  height:75px ;
+  margin:0.5rem ;
+
+} 
+/*push main content down to accomodate larger font */
+main {
+  margin-top: 79px;
+}
