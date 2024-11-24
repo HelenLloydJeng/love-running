@@ -249,6 +249,18 @@ main {
   /* Override the heading colour set in general styles */
   color: #fafafa;
 }
+
+/* gallery images */
+#photos img {
+
+  width: 100%;
+  line-height: 1em;
+}
+#photos {
+  line-height: 0;
+}
+
+
 /*  the footer  */
 #social-networks {
   text-align: center;
